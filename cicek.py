@@ -1,12 +1,4 @@
-import numpy as np
 import pandas as pd
-from sklearn.datasets import load_iris
-from sklearn import tree
-import pydotplus
-from sklearn import datasets
-from sklearn import metrics
-from sklearn.model_selection import cross_val_score
-import sklearn
 from sklearn.tree import DecisionTreeClassifier
 
 
